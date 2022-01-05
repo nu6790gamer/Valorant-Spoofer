@@ -5,7 +5,7 @@
 ##### ❌ Can't cancel from a banned account.
 ##### ❌ Do not Login Account, an account that has been banned or an account that has been logged in.
 ##### ❌ Do not take advantage
-##### ❌ Windows 10 versions 21H1 - 21H2 and Windows 11 are not supported.
+##### ❌ Windows 7- 8.1  not supported.
 ##### ❌ Do not skip any steps / do one item at a time.
 ##### ✅ Apply for a new account / Email / Gmail  after Restart PC 
 *****
