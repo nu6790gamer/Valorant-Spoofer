@@ -8,7 +8,13 @@
 ##### ❌ Windows 7- 8.1  not supported.
 ##### ❌ Do not skip any steps / do one item at a time.
 ##### ✅ Apply for a new account / Email / Gmail  after Restart PC 
+
+
+## [Discord](https://discord.gg/FeeWGNmhHx) Join
+
 *****
+
+
 
 ## 1 ) First you need to delete VGC / VGK.
 
