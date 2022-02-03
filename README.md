@@ -1,4 +1,4 @@
-## **Spoofer** Valorant that Really works 100% ( lag )
+## **Spoofer** Valorant that Really works 100% ( Not Update )
 
 ###### Hi , Valorant bans HWID. If you're in no hurry, you only have to wait 90 days / 3 months, or buy a fake to unban from a large number of sites. Today I'm going to give away bans that actually work and hope you won't use cheats a second time. Because I don't know if the second round can unban or not, please follow every step carefully.
 ##### ❌ Log out before doing step 1.
