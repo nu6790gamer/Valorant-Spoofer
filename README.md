@@ -36,7 +36,7 @@ sc delete vgk
 *****
 
 
-## 3 ) Lydian Spoofer 
+## 3 ) Lydian Spoofer ( 🛑 I removed it because it detected this as a virus. )
 
 ![124287003-bd657200-db79-11eb-867c-542bb1cfd5e7](https://user-images.githubusercontent.com/85826349/125176101-03b27500-e1fb-11eb-8c32-e94809ac0573.png)
 
