@@ -10,7 +10,7 @@
 ##### ✅ Apply for a new account / Email / Gmail  after Restart PC 
 
 
-## [Discord](https://discord.gg/ADS8VHJndK) Join
+## [Discord](https://discord.gg/hjnuP6Ksct) Join
 
 *****
 
