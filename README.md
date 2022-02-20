@@ -10,7 +10,7 @@
 ##### ✅ Apply for a new account / Email / Gmail  after Restart PC 
 
 
-### [Discord.gg/Sarnax](https://discord.com/invite/sarnax)
+### Sell Cheating Private / Source code Contact discord  [Discord.gg/Sarnax](https://discord.com/invite/sarnax) 
 
 *****
 
