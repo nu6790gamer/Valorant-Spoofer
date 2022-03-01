@@ -1,6 +1,7 @@
 ### Valorant Spoofer Update 
 > Working in Windows 10 - 11 only // Not Support windows 7-8 
 
+
   <p align="center">
     <a href="https://discord.gg/bzfWPSsDfR">
         <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-4/582142955742298132.png"/>
@@ -9,14 +10,13 @@
 
 ***
 
-#### 💬 For Support : [Discord.gg/Sarnax](https://discord.com/invite/sarnax) 
+#### 💬 For Sell Cheating & Support  : [discord.gg/Sarnax](https://discord.com/invite/sarnax) 
 > ##### Discord : Sarnax#9999
-
-**Discord Support & Sell**
-> - Craete Cheating Private // Not Detected & If Banned = Refund
+> - Craete Cheating Private // Spoofer All game 
 > - Contact Discord to order.
 
 ***
+
 
 
 ## 1 ) First you need to delete VGC / VGK.
