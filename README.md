@@ -1,6 +1,7 @@
 ### Valorant Spoofer Update 
-> Working in Windows 10 - 11 only // Not Support windows 7-8 
+> Working in Windows 10 - 11 only // not Support windows 7-8 
 
+***
 
   <p align="center">
     <a href="https://discord.gg/bzfWPSsDfR">
@@ -8,7 +9,6 @@
     </a>
 </p>
 
-***
 
 #### 💬 For Sell Cheating & Support  : [discord.gg/Sarnax](https://discord.com/invite/sarnax) 
 > ##### Discord : Sarnax#9999
