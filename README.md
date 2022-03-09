@@ -10,7 +10,7 @@
 </p>
 
 
-#### 💬 Access Discord to help / support 24 Hr.  : [discord.gg/Sarnax](https://discord.com/invite/sarnax)
+#### 💬 JOIN DISCORD : [CLICK FOR JOIN DISCORD ](https://discord.com/invite/sarnaxofficial)
 > ##### Discord : Sarnax#9999
 > Contact to order Cheating Private that is the most secure.
 > - We give you privacy.
