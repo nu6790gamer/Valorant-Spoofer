@@ -1,5 +1,5 @@
 ### Valorant Spoofer Update 
-> Working in Windows 10 - 11 only // not Support windows 7-8 
+> Working in Windows 10 - 11 only 
 
 ***
 
