@@ -1,5 +1,5 @@
-### Valorant Spoofer Update 
-> Working in Windows 10 - 11 only 
+### Valorant Spoofer
+
 
 ***
   <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 
-### 💬 Join Discord & Support : [HEX SUPPORT](https://discord.com/users/943374631644045363) (Add Friend For Invite Discord)
-> - DM for buy Cheating Private & Source
-> - come in to be the same society as us
+#### 💬 Discord For Support & Buy Cheating Private: [SARNAX SERVER](https://discord.com/users/943374631644045363) // (Add Friend For Invite Discord)
+> - Help with any problems you encounter.
+> - We do not expect profit We hope you only get good things.
 
 ***
 
@@ -37,7 +37,7 @@ sc delete vgk
 *****
 
 
-## 3 ) Lydian Spoofer ( update Crack version ) 
+## 3 ) Lydian Spoofer ( Update 1.5 ) 
 
 ![124287003-bd657200-db79-11eb-867c-542bb1cfd5e7](https://user-images.githubusercontent.com/85826349/125176101-03b27500-e1fb-11eb-8c32-e94809ac0573.png)
 
@@ -49,8 +49,8 @@ sc delete vgk
 
 ## 4) TMAC /  HardDisk Change Number
 
-#### Download TMAC [Click Here](https://technitium.com/tmac/)
-#### Download HardDisk Change Number [Click Here](https://hard-disk-serial-number-changer.th.softonic.com/)
+### Download TMAC [Click Here](https://technitium.com/tmac/)
+### Download HardDisk Change Number [Click Here](https://hard-disk-serial-number-changer.en.softonic.com/)
 ![124288379-50eb7280-db7b-11eb-9650-1e671f8ed3ea](https://user-images.githubusercontent.com/85826349/125176229-0eb9d500-e1fc-11eb-819a-9bd5303df010.png)
 
 ### After that, change TMAC and Hard Disk. ( All Disk C / D / E / F )
