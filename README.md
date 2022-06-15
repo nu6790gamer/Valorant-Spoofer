@@ -16,7 +16,8 @@ SPOOFER FREE VALORANT 152 / 51 HARDWARE ID BANNED (ENTER DISCORD TO GET THE NEW 
     </a>
 </p>
 
-### 📌・ DISCORD : [HEX PROJECT](https://discord.gg/fYnQePhkt7)
+### 📌・ DISCORD : [HEX PROJECT](https://discord.gg/fYnQePhkt7) / DM FOR BUY
+#### ・ Now we make the server private. when you buy our products you will be invited / We do this to prevent the server from being deleted.
 
 * `👋 SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
 * `✔️ UPDATE FREE & LIFETIME & UNDETECTED & BYPASS DRIVER , INJECTOR `
