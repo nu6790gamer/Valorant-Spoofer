@@ -11,7 +11,7 @@ SPOOFER FREE VALORANT 152 / 51 HARDWARE ID BANNED (ENTER DISCORD TO GET THE NEW 
 </p>
 
 
-### 📌・ DISCORD : [HEX SERVER](https://discord.gg/JsxqNHgR4m) 
+### 📌・ NEW DISCORD : [HEX SERVER](https://discord.gg/JsxqNHgR4m) 
 
 
 * `👋 SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
