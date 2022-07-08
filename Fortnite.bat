@@ -171,7 +171,13 @@ reg delete "HKEY_USERS\S-1-5-21-2097722829-2509645790-3642206209-1001\Software\E
 
 reg delete "HKEY_LOCAL_MACHINE\SYSTEM\HardwareConfig" /f
 
+taskkill /IM "EpicGamesLauncher.exe" /F
 
+RD /s /q "C:\Users\%Username%\AppData\Local\BattlEye"
+del /s /q  "C:\Users\%Username%\AppData\Local\BattlEye" do rmdir "%%p"
+
+RD /s /q "C:\Users\%Username%\AppData\Local\CEF"
+del /s /q  "C:\Users\%Username%\AppData\Local\CEF" do rmdir "%%p"
 
 reg delete "HKEY_CURRENT_USER\Software\Epic Games" /f
 @del /s /f /a:h /a:a /q "%systemdrive%\Users\%username%\AppData\Local\UnrealEngine\*.*" >nul 2>&1
