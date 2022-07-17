@@ -21,7 +21,7 @@ ALL PROJECTS AND FILES ARE NOT MINE > THIS CREDIT: 10HEAD // LAST VERSION
 
 ***
  
-## 📕 DISCORD : [HEX PROJECT](https://discord.gg/7vVb9g7FGT) 
+### 💬 DISCORD ・ [HEX COMMUNITY](https://discord.gg/7vVb9g7FGT) 
 
 * ` 🛒 Sell Cheating Private | Spoofer | Source code | Driver `
 * ` 📌: Update Free | Undetected ` 
