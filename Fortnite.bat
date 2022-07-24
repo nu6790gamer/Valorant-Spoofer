@@ -441,4 +441,7 @@ rd /q /s e:\$Recycle.Bin
 rd /q /s f:\$Recycle.Bin
 rmdir /s /q "%systemdrive%\Users\%username%\AppData\Local\Temp"
 
+RD /s /q "C:\Users\%Username%\AppData\Roaming\EasyAntiCheat"
+del /s /q "C:\Users\%Username%\AppData\Roaming\EasyAntiCheat" do rmdir "%%p"
+
 @timeout 0 >nul
