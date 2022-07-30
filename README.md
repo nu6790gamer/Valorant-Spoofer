@@ -10,7 +10,7 @@ ALL PROJECTS AND FILES ARE NOT MINE > THIS CREDIT: 10HEAD // LAST VERSION
 ・If an error occurs, your motherboard is anti-numbering protection.
 
 ✔️・If the free version doesn't work You can join our server to place an order.
-
+ 
 ***
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
