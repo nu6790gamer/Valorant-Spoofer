@@ -5,7 +5,7 @@ ALL PROJECTS AND FILES ARE NOT MINE > THIS CREDIT: 10HEAD // LAST VERSION
 
 ### 💡 HOW TO USE ? 
 
-・Scroll down the message And just follow the video below.
+・Scroll down the message And just follow the video below. 
 
 ・If an error occurs, your motherboard is anti-numbering protection.
 
