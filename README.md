@@ -11,7 +11,7 @@ ALL PROJECTS AND FILES ARE NOT MINE > THIS CREDIT: 10HEAD // LAST VERSION
 
 ✔️・If the free version doesn't work You can join our server to place an order.
   
-***
+*** 
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
         <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
